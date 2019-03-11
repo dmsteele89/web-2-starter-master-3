@@ -2,11 +2,11 @@
   DIAGNOSTIC STYLING
 */
 body {
-  background: gray;
+  background: black;
 }
 
-* {
-  outline: 1px dotted black;
+h1, h3 {
+  color: goldenrod;
 }
 
 /* Your Awesome Scripts */
