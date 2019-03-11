@@ -2,6 +2,6 @@
 console.log('OK');
 
 // Your Awesome Scripts
-$(function() {
-    $('[data-spzoom]').spzoom();
+$('[data-spzoom]').spzoom({
+    showTitle: false
 });

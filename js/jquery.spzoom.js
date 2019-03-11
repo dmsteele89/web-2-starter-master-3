@@ -20,8 +20,8 @@
     };
 
     $.fn.spzoom.defaults = {
-        width: 250,             // Zoom window width in pixels
-        height: 250,            // Zoom window height in pixels
+        width: 300,             // Zoom window width in pixels
+        height: 300,            // Zoom window height in pixels
         position: 'right',      // top, right, bottom, left
         margin: 20,             // Zoom window margin (space)
         showTitle: true,        // Whether to display image title
